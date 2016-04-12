@@ -10,7 +10,7 @@
 <title>Score Board</title>
 </head>
 <body>
-<link href="./css/style.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jQuery/jquery-1.4.2.min.js"></script>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="Checker.js"></script>
